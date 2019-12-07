@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575748897444</updated>
-      <workItem from="1575748899500" duration="505000" />
+      <workItem from="1575748899500" duration="746000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <created>1575749006181</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575749006181</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First +1">
+      <created>1575749433933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575749433933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,21 +84,26 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First" />
-    <option name="LAST_COMMIT_MESSAGE" value="First" />
+    <MESSAGE value="First +1" />
+    <option name="LAST_COMMIT_MESSAGE" value="First +1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1575749005729">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1575749433715">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575749005729" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575749023399">
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575749433715" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575749435240">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575749023399" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575749435240" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575749421819">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1575749421819" />
+    <state x="385" y="212" width="670" height="476" key="find.popup" timestamp="1575749565689">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="212" width="670" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1575749565689" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
