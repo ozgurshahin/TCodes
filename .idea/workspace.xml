@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575748897444</updated>
-      <workItem from="1575748899500" duration="1667000" />
+      <workItem from="1575748899500" duration="2406000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <created>1575749006181</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575752130212</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First +4">
+      <created>1575752381860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575752381860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,25 +114,34 @@
     <MESSAGE value="First +1" />
     <MESSAGE value="First +2" />
     <MESSAGE value="First +3" />
-    <option name="LAST_COMMIT_MESSAGE" value="First +3" />
+    <MESSAGE value="First +4" />
+    <option name="LAST_COMMIT_MESSAGE" value="First +4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1575752130028">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1575752381767">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575752130028" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575752134946">
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575752381767" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1575752407328">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575752134946" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1575752407328" />
+    <state x="561" y="168" key="RollbackChangesDialog" timestamp="1575753137861">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="561" y="168" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575753137861" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575752383203">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575752383203" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575749421819">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1575749421819" />
-    <state x="385" y="212" width="670" height="476" key="find.popup" timestamp="1575749565689">
+    <state x="385" y="212" width="670" height="476" key="find.popup" timestamp="1575753013138">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="212" width="670" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1575749565689" />
+    <state x="385" y="212" width="670" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1575753013138" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
