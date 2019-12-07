@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac2c5864-aae5-4e79-b444-d23069b53d0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/newsletter.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575748897444</updated>
-      <workItem from="1575748899500" duration="2406000" />
+      <workItem from="1575748899500" duration="2889000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <created>1575749006181</created>
@@ -102,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575752381860</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="First +4">
+      <created>1575753141750</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575753141750</updated>
+    </task>
+    <task id="LOCAL-00007" summary="First +5">
+      <created>1575753184864</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575753184864</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,13 +132,14 @@
     <MESSAGE value="First +2" />
     <MESSAGE value="First +3" />
     <MESSAGE value="First +4" />
-    <option name="LAST_COMMIT_MESSAGE" value="First +4" />
+    <MESSAGE value="First +5" />
+    <option name="LAST_COMMIT_MESSAGE" value="First +5" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1575752381767">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1575753184545">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575752381767" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575753184545" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1575752407328">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -130,18 +148,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="561" y="168" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575753137861" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575752383203">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575753187339">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575752383203" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575753187339" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575749421819">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1575749421819" />
-    <state x="385" y="212" width="670" height="476" key="find.popup" timestamp="1575753013138">
+    <state x="385" y="212" width="670" height="476" key="find.popup" timestamp="1575753456771">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="212" width="670" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1575753013138" />
+    <state x="385" y="212" width="670" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1575753456771" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
