@@ -189,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578511949860</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Erbut den get test">
+      <created>1578563365530</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1578563365530</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Erbut den get test">
+      <created>1578563410488</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1578563410488</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,13 +229,14 @@
     <MESSAGE value="First +4" />
     <MESSAGE value="First +5" />
     <MESSAGE value="Erbut den get" />
-    <option name="LAST_COMMIT_MESSAGE" value="Erbut den get" />
+    <MESSAGE value="Erbut den get test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Erbut den get test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1578563398942">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1578563410385">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563398942" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563410385" />
     <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1578511949621" />
     <state x="100" y="86" width="1240" height="786" key="DiffContextDialog" timestamp="1578563341780">
       <screen x="0" y="0" width="1440" height="900" />
@@ -234,10 +249,10 @@
     </state>
     <state x="561" y="168" key="RollbackChangesDialog/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578562986496" />
     <state x="561" y="168" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575753137861" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1578563367982">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1578563412257">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563367982" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563412257" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1578511952325" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575749421819">
       <screen x="0" y="0" width="1440" height="900" />
