@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac2c5864-aae5-4e79-b444-d23069b53d0f" name="Default Changelist" comment="">
+    <list default="true" id="ac2c5864-aae5-4e79-b444-d23069b53d0f" name="Default Changelist" comment="Erbut den get test">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/themes.light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/header/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/dense.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/scrollreveal.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/nivo-lightbox/nivo-lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/nivo-lightbox/nivo-lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/nivo-lightbox/themes/default/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexV2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -48,18 +63,23 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/indexV2.html" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.indexV2.html">
+    <configuration name="indexV2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TCodes/indexV2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TCodes/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.indexV2.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -210,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578563487493</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Erbut den get test">
+      <created>1578564049202</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1578564049202</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,35 +267,37 @@
     <option name="LAST_COMMIT_MESSAGE" value="Erbut den get test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1578563487398">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1578564992970">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563487398" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578564992970" />
     <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1578511949621" />
-    <state x="100" y="86" width="1240" height="786" key="DiffContextDialog" timestamp="1578563341780">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="1440" y="-298" width="2560" height="1440" key="DiffContextDialog" timestamp="1578565604083">
+      <screen x="1440" y="-298" width="2560" height="1440" />
     </state>
     <state x="100" y="86" width="1240" height="786" key="DiffContextDialog/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563341780" />
+    <state x="1440" y="-298" width="2560" height="1440" key="DiffContextDialog/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@1440.-298.2560.1440" timestamp="1578565604083" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1575752407328" />
+    <state x="2100" y="195" width="1240" height="786" key="DiffContextDialog/0.23.1440.802/1440.-298.2560.1440/-2560.-238.2560.1417@1440.-298.2560.1440" timestamp="1578565145565" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.802@0.23.1440.802" timestamp="1578512008930" />
     <state x="561" y="168" key="RollbackChangesDialog" timestamp="1578562986496">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="561" y="168" key="RollbackChangesDialog/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578562986496" />
     <state x="561" y="168" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575753137861" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1578563489104">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1578564051113">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563489104" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578564051113" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1578511952325" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575749421819">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1575749421819" />
-    <state x="385" y="212" width="670" height="486" key="find.popup" timestamp="1578563176304">
+    <state x="385" y="212" width="670" height="486" key="find.popup" timestamp="1578564093906">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="212" width="670" height="486" key="find.popup/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563176304" />
+    <state x="385" y="212" width="670" height="486" key="find.popup/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578564093906" />
     <state x="385" y="212" width="670" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1575754965813" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578564025161">
       <screen x="0" y="0" width="1440" height="900" />
