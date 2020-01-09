@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578563410488</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Erbut den get test">
+      <created>1578563487493</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1578563487493</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,10 +240,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Erbut den get test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1578563410385">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1578563487398">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563410385" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563487398" />
     <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1578511949621" />
     <state x="100" y="86" width="1240" height="786" key="DiffContextDialog" timestamp="1578563341780">
       <screen x="0" y="0" width="1440" height="900" />
@@ -249,10 +256,10 @@
     </state>
     <state x="561" y="168" key="RollbackChangesDialog/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578562986496" />
     <state x="561" y="168" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575753137861" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1578563412257">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1578563489104">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563412257" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563489104" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1578511952325" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575749421819">
       <screen x="0" y="0" width="1440" height="900" />
@@ -263,6 +270,10 @@
     </state>
     <state x="385" y="212" width="670" height="486" key="find.popup/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563176304" />
     <state x="385" y="212" width="670" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1575754965813" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578564025161">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578564025161" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
