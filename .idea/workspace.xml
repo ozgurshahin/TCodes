@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac2c5864-aae5-4e79-b444-d23069b53d0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/pe-icon-7-stroke.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.scrollTo-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/Pe-icon-7-stroke.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/Pe-icon-7-stroke.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/Pe-icon-7-stroke.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/Pe-icon-7-stroke.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +14,11 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="asdsd" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UfY0ymtSOCS96I4F4BljidQCcu" />
@@ -81,6 +53,16 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TCodes/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -236,30 +218,35 @@
     <option name="LAST_COMMIT_MESSAGE" value="Erbut den get" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1578511949621">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1578563398942">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563398942" />
     <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1578511949621" />
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1578512008930">
-      <screen x="0" y="23" width="1440" height="802" />
+    <state x="100" y="86" width="1240" height="786" key="DiffContextDialog" timestamp="1578563341780">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="100" y="86" width="1240" height="786" key="DiffContextDialog/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563341780" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1575752407328" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.802@0.23.1440.802" timestamp="1578512008930" />
-    <state x="561" y="168" key="RollbackChangesDialog" timestamp="1575753137861">
+    <state x="561" y="168" key="RollbackChangesDialog" timestamp="1578562986496">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="561" y="168" key="RollbackChangesDialog/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578562986496" />
     <state x="561" y="168" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575753137861" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1578511952325">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1578563367982">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563367982" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1578511952325" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575749421819">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1575749421819" />
-    <state x="385" y="212" width="670" height="476" key="find.popup" timestamp="1575754965813">
+    <state x="385" y="212" width="670" height="486" key="find.popup" timestamp="1578563176304">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="385" y="212" width="670" height="486" key="find.popup/0.0.1440.900/1440.-298.2560.1440/-2560.-261.2560.1440@0.0.1440.900" timestamp="1578563176304" />
     <state x="385" y="212" width="670" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1575754965813" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
